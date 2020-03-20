@@ -1,0 +1,17 @@
+name: covid-19
+channels:
+  - conda-forge
+dependencies:
+  - graphviz
+  - ipyleaflet
+  - ipyvuetify
+  - matplotlib
+  - pandas
+  - python=3.8.1
+  - python-graphviz
+  - pip
+  - pyyaml
+  - qgrid
+  - reportlab
+  - seaborn
+  - voila
