@@ -5,7 +5,7 @@
 
 jupyter nbextension enable --py --sys-prefix qgrid
 jupyter labextension install \
-    @jupyter-widgets/jupyterlab-manager
+    @jupyter-widgets/jupyterlab-manager \
     @jupyter-voila/jupyterlab-preview \
     jupyter-leaflet \
     qgrid2 
