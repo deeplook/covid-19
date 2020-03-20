@@ -9,3 +9,5 @@ jupyter labextension install \
     @jupyter-voila/jupyterlab-preview \
     jupyter-leaflet \
     qgrid2 
+
+jupyter lab build
